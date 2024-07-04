@@ -1,0 +1,7 @@
+git init
+git repo ni  link
+git config user.name "disha"
+git congif user.email "dishavaghasiya2311@gmail.com"
+git add .
+git commit -m "your commit"
+git push -u origin master
